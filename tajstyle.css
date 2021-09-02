@@ -5,7 +5,7 @@
 header{
 	width: 100%;
 	height: 100vh;
-	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.1)), url("../tajmahal.jpg");
+	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.1)), url("tajmahal.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
